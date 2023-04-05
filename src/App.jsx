@@ -1,11 +1,10 @@
+import  Router  from '../src/router/Router'
 
 
 function App() {
   
 
-  return (
-    <div></div>
-  )
+  return <Router/>
 }
 
 export default App
