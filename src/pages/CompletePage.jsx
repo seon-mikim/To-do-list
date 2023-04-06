@@ -2,7 +2,12 @@ import React from 'react'
 
 function CompletePage() {
   return (
-    <div>CompletePage</div>
+    <div>
+      <h1>
+
+      CompletePage
+      </h1>
+    </div>
   )
 }
 
