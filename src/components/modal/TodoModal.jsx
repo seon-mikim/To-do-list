@@ -5,7 +5,6 @@ function TodoModal() {
   return (
     <div>
         <TodoInput/>
-        <button>add</button>
     </div>
   )
 }
